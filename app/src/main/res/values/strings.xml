@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Shiva</string>
+    <string name="map_key" translatable="false">AIzaSyB6ELImh6wrWhdx4aQ6DhkCbEQuhsDO5aY</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
